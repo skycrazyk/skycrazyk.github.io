@@ -1,5 +1,6 @@
 title: crazyk
 description: There is no spoon 🥄
+theme: minima
 minima:
   skin: solarized
   nav_pages:
