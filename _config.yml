@@ -1,4 +1,7 @@
-title: crazyk.xyz 
+title: crazyk
 description: There is no spoon 🥄
 minima:
   skin: solarized
+  nav_pages:
+    - about.md
+    - portfolio.md
