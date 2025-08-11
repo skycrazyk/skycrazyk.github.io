@@ -1,3 +1,4 @@
-# theme: jekyll-theme-minimal
-title: Skycrazyk 
+title: crazyk.xyz 
 description: There is no spoon 🥄
+minima:
+  skin: solarized
