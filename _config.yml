@@ -2,7 +2,7 @@ title: crazyk
 description: There is no spoon 🥄
 theme: minima
 minima:
-  skin: solarized
+  skin: dark
   nav_pages:
     - about.md
     - portfolio.md
