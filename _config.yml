@@ -1,4 +1,7 @@
 title: Skycrazyk 
+author:
+  name: Dmitry Karyakin
+  email: skycrazyk@gmail.com
 description: There is no spoon 🥄
 remote_theme: jekyll/minima
 plugins:
