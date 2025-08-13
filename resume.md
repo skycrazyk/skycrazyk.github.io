@@ -1,79 +1,75 @@
 ---
 layout: page
-title: Frontend developer
+title: Frontend developer 
 permalink: /frontend-dmitry-karyakin
 ---
 
-## Contact info
+# Dmitry Karyakin  
+**Frontend Developer**  
 
-- skycrazyk@gmail.com
-- https://t.me/skycrazyk
+📍 Svetlogorsk, Kaliningrad region, Russia  
+📧 skycrazyk@gmail.com | 💬 [Telegram](https://t.me/skycrazyk)  
 
-## Work experience
+---
 
-### Perx
+## Career Preferences
+- **Work schedule:** Full-time, Remote  
+- **Business trips:** Available  
 
-*Link:* https://perx.ru
+---
 
-*Period:* 2019 - current moment
+## Skills  
+JavaScript • TypeScript • React • Vue • Vite • Webpack • Node.js • Storybook • NPM • Responsive Web Design • Web API • Git • VSCode • Vim  
 
-*Position:* Senior fronted developer
+---
 
-*Responsibilities:* 
+## Professional Experience  
 
-    - Development of an administrative interface using React.js and Ant Design
-    - Architecture of the frontend application
-    - Code review
+### **Perx** — Senior Frontend Developer  
+*2019 – Present* | [perx.ru](https://perx.ru)  
 
-### Walletone (AvatarLab)
+- Developed and maintained an administrative interface using **React.js** and **Ant Design**  
+- Designed frontend application architecture for scalability and maintainability  
+- Conducted thorough code reviews, improving code quality across the team  
 
-*Link:* https://www.walletone.com, https://avalab.io
+---
 
-*Period:* 2014 - 2019
+### **WalletOne / AvatarLab** — Middle Engineer  
+*2014 – 2019* | [walletone.com](https://www.walletone.com) • [avalab.io](https://avalab.io) • [hashmart.io](https://hashmart.io)  
 
-*Position:* Middle Engineer
+- Built corporate websites on **WordPress**  
+- Developed web applications using **BasisJS** and **Vue.js**  
+- Participated in code reviews and collaborative development  
 
-*Responsibilities:* 
+---
 
-    - Developing corporative web site on CMS WordPress
-    - Application development using the JavaScript libraries Basisjs and Vue
-    - Code review
+### **Freelance** — Designer & Web Developer  
+*2012 – 2014*  
 
-### Freelance
+- Communicated with clients, created website designs, and implemented them using **MODX Revolution** and **WordPress**  
+- Delivered complete solutions from concept to deployment  
 
-*Period:* 2012 - 2014
+---
 
-*Position:* Designer, web developer
+### **Sberbank** — Junior Engineer  
+*2011 – 2012* | [sberbank.ru](https://www.sberbank.ru)  
 
-*Responsibilities:* At that time, I was working with clients directly as a fullstack developer. My responsibilities included communicating with clients, developing the design and programming of the website using CMS MODX Revolution and WordPress.
+- Administered **Unix** and **Windows** systems  
+- Configured and maintained ATMs  
 
-### Sberbank 
+---
 
-*Link:* https://www.sberbank.ru
+## Education  
 
-*Period:* 2011 - 2012
+**Orenburg State University** — Faculty of Information Systems and Technologies  
+*2006 – 2011* | [osu.ru](http://www.osu.ru/doc/666)  
 
-*Position:* Junior Engineer
+Degree: Higher education (Computer Science)  
 
-*Responsibilities:* 
+---
 
-    - Unix and Windows system administration,
-    - ATM configuration.
+## About Me  
 
-## Education
+I am passionate about writing **clean, scalable code** and enjoy refactoring to improve existing solutions. I have strong experience in reading, debugging, profiling, and optimizing code. I believe in the importance of **TypeScript** for large-scale projects and approach code reviews with great attention to detail.  
 
-### Orenburg state university. Faculty of information systems and technologies 
-
-*Link:* http://www.osu.ru/doc/666
-
-*Period:* 2006 - 2011
-
-*Position:* Student
-
-*Responsibilities:*
-
-    - Study computer science,
-    - development of recommendation systems,
-    - familiarization with document management systems,
-    - fundamentals of electrical engineering,
-    - general educational program.
+In my free time, I enjoy walking, paragliding, and spending time with my family. 
