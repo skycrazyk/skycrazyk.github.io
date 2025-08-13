@@ -13,3 +13,10 @@ minima:
   skin: solarized 
   nav_pages:
     - about.md
+  social_links:
+    - title: My GitHub account
+      icon: github
+      url: "https://github.com/skycrazyk"
+    - title: I'm at X
+      icon: x-twitter
+      url: "https://x.com/skycrazyk"
