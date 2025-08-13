@@ -4,8 +4,7 @@ title: Frontend developer
 permalink: /frontend-dmitry-karyakin
 ---
 
-# Dmitry Karyakin  
-**Frontend Developer**  
+## Dmitry Karyakin  
 
 📍 Svetlogorsk, Kaliningrad region, Russia  
 📧 skycrazyk@gmail.com | 💬 [Telegram](https://t.me/skycrazyk)  
