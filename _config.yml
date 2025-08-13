@@ -1,4 +1,4 @@
-title: Skycrazyk 
+title: Crazyk
 author:
   name: Dmitry Karyakin
   email: skycrazyk@gmail.com
@@ -6,8 +6,8 @@ description: There is no spoon 🥄
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  # Multilanguage plugin https://github.com/untra/polyglot?tab=readme-ov-file
 minima:
   skin: solarized 
   nav_pages:
     - about.md
-    - portfolio.md
