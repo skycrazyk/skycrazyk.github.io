@@ -4,8 +4,6 @@ title: About Me
 permalink: /about
 ---
 
-# About Me  
-
 Hello! 👋 My name is Dmitry Karyakin, and I’m a frontend developer based in Svetlogorsk, Russia. 🌊 From time to time, I visit my home village of Tulgan in the Orenburg region, where my parents live. 🏡  
 
 In my free time, I enjoy staying active 🏃, playing with my children 👨‍👧‍👦, and working on small projects around the house 🛠️. During the week, I practice yoga 🧘 or go for a run; on weekends, if the weather is kind, you’ll often find me flying my paraglider 🪂 or kiteboarding 🏄‍♂️. I also love exploring mountains ⛰️, forests 🌲 — and I never say no to a good drive 🚗.  
