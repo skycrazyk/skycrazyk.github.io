@@ -3,7 +3,7 @@ author:
   name: Dmitry Karyakin
   email: skycrazyk@gmail.com
 description: There is no spoon 🥄
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:title
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
