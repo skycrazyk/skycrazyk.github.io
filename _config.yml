@@ -9,6 +9,7 @@ plugins:
   - jekyll-remote-theme
   # Multilanguage plugin https://github.com/untra/polyglot?tab=readme-ov-file
 minima:
+  show_excerpts: true
   skin: solarized 
   nav_pages:
     - about.md
