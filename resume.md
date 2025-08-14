@@ -11,7 +11,7 @@ permalink: /frontend-dmitry-karyakin
 
 ---
 
-## Career Preferences
+## Career preferences
 - **Work schedule:** Full-time, Remote  
 - **Business trips:** Available  
 
@@ -22,9 +22,9 @@ JavaScript • TypeScript • React • Vue • Vite • Webpack • Node.js •
 
 ---
 
-## Professional Experience  
+## Professional experience  
 
-### **Perx** — Senior Frontend Developer  
+#### **Perx** — Senior frontend developer  
 *2019 – Present* | [perx.ru](https://perx.ru)  
 
 - Developed and maintained an administrative interface using **React.js** and **Ant Design**  
@@ -33,7 +33,7 @@ JavaScript • TypeScript • React • Vue • Vite • Webpack • Node.js •
 
 ---
 
-### **WalletOne / AvatarLab** — Middle Engineer  
+#### **Walletone / Avatarlab** — Middle frontend developer
 *2014 – 2019* | [walletone.com](https://www.walletone.com) • [avalab.io](https://avalab.io) • [hashmart.io](https://hashmart.io)  
 
 - Built corporate websites on **WordPress**  
@@ -42,7 +42,7 @@ JavaScript • TypeScript • React • Vue • Vite • Webpack • Node.js •
 
 ---
 
-### **Freelance** — Designer & Web Developer  
+#### **Individual entrepreneur** — Fullstack web developer  
 *2012 – 2014*  
 
 - Communicated with clients, created website designs, and implemented them using **MODX Revolution** and **WordPress**  
@@ -50,7 +50,7 @@ JavaScript • TypeScript • React • Vue • Vite • Webpack • Node.js •
 
 ---
 
-### **Sberbank** — Junior Engineer  
+#### **Sberbank** — Junior engineer  
 *2011 – 2012* | [sberbank.ru](https://www.sberbank.ru)  
 
 - Administered **Unix** and **Windows** systems  
@@ -67,7 +67,7 @@ Degree: Higher education (Computer Science)
 
 ---
 
-## About Me  
+## About Me 
 
 I am passionate about writing **clean, scalable code** and enjoy refactoring to improve existing solutions. I have strong experience in reading, debugging, profiling, and optimizing code. I believe in the importance of **TypeScript** for large-scale projects and approach code reviews with great attention to detail.  
 
