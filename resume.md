@@ -60,7 +60,7 @@ JavaScript • TypeScript • React • Vue • Vite • Webpack • Node.js •
 
 ## Education  
 
-**Orenburg State University** — Faculty of Information Systems and Technologies  
+#### **Orenburg State University** — Faculty of Information Systems and Technologies  
 *2006 – 2011* | [osu.ru](http://www.osu.ru/doc/666)  
 
 Degree: Higher education (Computer Science)  
