@@ -1,4 +1,7 @@
-title: Crazyk
+# Example of multilanguage setup https://github.com/albamath/minima-multilingual/tree/gh-pages
+title: Skycrazyk's Blog 
+lang: en
+languages: ["en", "ru"]
 author:
   name: Dmitry Karyakin
   email: skycrazyk@gmail.com
@@ -10,9 +13,11 @@ plugins:
   # Multilanguage plugin https://github.com/untra/polyglot?tab=readme-ov-file
 minima:
   show_excerpts: true
+  show_downloads: false # "true" or "false" to indicate whether to provide a download URL
   skin: solarized 
   nav_pages:
     - about.md
+    - portfolio.md
   social_links:
     - title: My GitHub account
       icon: github

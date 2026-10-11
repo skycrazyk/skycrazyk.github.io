@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Frontend developer 
-permalink: /frontend-dmitry-karyakin
+permalink: /developer-dmitry-karyakin
 ---
 
 ## Dmitry Karyakin  
