@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Сегодня отлично погуляли"
+tags: ['study','travels', 'dayly post', 'лодка на берегу']
+categories: ['cool posts']
+---
+
+# Welcome
+
+I like walking along the sea
